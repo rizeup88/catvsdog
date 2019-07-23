@@ -1,0 +1,25 @@
+.intro {
+	position: relative;
+}
+
+.intro .container {
+	margin-top: 1em;
+	text-align: center;
+}
+
+.choice {
+	position: relative;
+}
+
+.choice .container {
+	margin-top: 2em;
+	text-align: center;
+}
+
+.choice .container .row {
+	margin-top: 2em;
+}
+
+.choice ul {
+	list-style-type: none;
+}
